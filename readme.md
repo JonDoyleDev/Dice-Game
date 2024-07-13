@@ -1,4 +1,4 @@
-# Dicee Game
+# Dice Game
 
 This is a simple dice game exercise from "London App Brewery's 2024 Complete Front-End Bootcamp". It is implemented with HTML, CSS, and JavaScript, simulating a dice game where two players roll dice, and the winner is determined based on the higher roll.
 
