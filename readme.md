@@ -32,5 +32,5 @@ This is a simple dice game exercise from "London App Brewery's 2024 Complete Fro
 
 ## Background
 
-Thanks for checking out my repo! I'm Jon, an aspiring web developer from Denver Colorado. This project was a challenge exercise and was completed without assistance from training materials. I added some animations, and shuffled images via index in order to emulate a simple rolling animation. The objective with this exercise was to refresh and further my understanding of the JavaScript fundamentals.
+Thanks for checking out my repo! I'm Jon, an aspiring web developer from Denver Colorado. This project was a challenge exercise and was completed without assistance from training materials. I added some animations, and shuffled images, in order to emulate a simple rolling animation. The objective with this exercise was to refresh and further my understanding of the JavaScript fundamentals.
 
